@@ -1,0 +1,2 @@
+productID,productName,supplierID,categoryID,quantityPerUnit,unitPrice,unitsInStock,unitsOnOrder,reorderLevel,discontinued
+1,Chai,1,1,10 boxes x 20 bags,18.00,39,0,10,0
