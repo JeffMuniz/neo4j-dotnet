@@ -22,6 +22,7 @@ namespace Neoflix
             Neo4jUri = neo4j["uri"];
             Neo4jUsername = neo4j["username"];
             Neo4jPassword = neo4j["password"];
+            
 
             JwtSecret = config.GetSection("Jwt")["secret"];
 

@@ -1,6 +1,11 @@
+ dotnet add Neoflix package Neo4j.Driver
+ dotnet build
+ dotnet watch --project Neoflix   
+
+
+
 = Building Neo4j Applications with .NET
-https://www.nuget.org/api/v2/package/Neo4j.Driver.Simple/5.9.0
-dotnet add package Neo4j.Driver.Simple --version 5.9.0
+
 > Learn how to interact with Neo4j from .NET using the Neo4j .NET driver.
 
 This repository accompanies the link:https://graphacademy.neo4j.com/courses/app-dotnet/[Building Neo4j Applications with .NET course^] on link:https://graphacademy.neo4j.com/[Neo4j GraphAcademy^].
